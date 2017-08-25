@@ -12,11 +12,11 @@ class SimpleIfDemo{
 
       	  if (number % 5 == 0)
 
-      	  	 System.out.print("Hi Five Number");
+      	  	 System.out.print("HiFive Number");
 
       	   if (number % 2 == 0)
       	   
-      	      System.out.print("Hi Even Number");	
+      	      System.out.print("HiEven Number");	
 
 
       }
