@@ -22,13 +22,12 @@ class Nested{
 
              	if (j > k)
 
-             	System.out.print(" i and j are greater than k ");              	
+             	System.out.print(" i and j are greater than k :"+ j);              	
              }
 
             else {
-            	System.out.print("i is less than or equal to k ");
+            	System.out.print("i and j less than to k : " + k);
             }
-
 
 
 			  } 
