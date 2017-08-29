@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class BodyMassIndex{
+class BodyMassIndex{
 	
            public static void main(String[] args) {
 
