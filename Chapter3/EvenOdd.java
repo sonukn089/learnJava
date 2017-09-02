@@ -12,6 +12,7 @@ class EvenOdd{
            	
              System.out.println((num % 2 == 0) ? "num is even" : "num is odd");
 
+             System.out.println(3 + 4 * 4 > 5 * (4 + 3) - 1 && (4 -3) > 5 );
              
 
 
