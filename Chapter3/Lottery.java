@@ -53,8 +53,6 @@ class Lottery{
             	System.out.print("Sorry, no match");
 
 
-
-
          }
 
 }
