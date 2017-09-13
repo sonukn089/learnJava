@@ -5,61 +5,61 @@ class RandomMonth{
 	   public static void main(String[] args) {
 	   	
 
-      	     int number1 = (int)(Math.random() *12);
+      	     int number = (int)(Math.random() *12);
 
-      	     if (number1 == 1) {
+      	     if (number == 1) {
 
       	     	System.out.print("January");
       	     	
       	     }
 
-      	     else if (number1 == 2) {
+      	     else if (number == 2) {
 
       	     	System.out.print("February");
       	     	
       	     }
-      	     else if (number1 == 3) {
+      	     else if (number == 3) {
 
       	     	System.out.print("March");
       	     	
       	     }
-      	     else if (number1 == 4) {
+      	     else if (number == 4) {
                
                  System.out.print("April");
       	     	
       	     }
 
-      	     else if (number1 == 5) {
+      	     else if (number == 5) {
 
       	     	System.out.print("May");
       	     	
       	     }
-      	     else if (number1 == 6) {
+      	     else if (number == 6) {
 
       	     	System.out.print("June");
       	     	
       	     }
-      	     else if (number1 == 7) {
+      	     else if (number == 7) {
                
                  System.out.print("July");
       	     	
       	     }
-      	     else if (number1 == 8) {
+      	     else if (number == 8) {
 
       	     	System.out.print("August");
       	     	
       	     }
-      	     else if (number1 == 9) {
+      	     else if (number == 9) {
 
       	     	System.out.print("September");
       	     	
       	     }
-      	     else if (number1 == 10) {
+      	     else if (number == 10) {
                
                  System.out.print("October");
       	     	
       	     }
-      	     else if (number1 == 11) {
+      	     else if (number == 11) {
                
                  System.out.print("November");
       	     	

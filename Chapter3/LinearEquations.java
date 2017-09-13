@@ -24,7 +24,9 @@ class LinearEquations{
 			    double x = (e * d - b * f) / (a * d - b * c);
 			    double y = (a * f - e * c) / (a * d - b * c);
 
-			    System.out.println("x = " + x + " y = " + y);
+			    System.out.print("x is = " + x );
+
+			    System.out.print("y is = " + y);
 
       	      }
 
