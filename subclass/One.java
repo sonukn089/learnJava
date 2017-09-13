@@ -7,7 +7,7 @@ class One extends Three {
 
 		System.out.println(a);
 
-		System.out.println(n.mul(23,76));
+		System.out.println(n.multiply(23,76));
 
 		
 

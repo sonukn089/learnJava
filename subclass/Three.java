@@ -7,7 +7,7 @@ class Three {
 		return myName;
 	}
 
-	public int mul(int a, int b) {
+	public int multiply(int a, int b) {
 
 		int c = a * b;
 
