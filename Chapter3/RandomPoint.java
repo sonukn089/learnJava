@@ -6,7 +6,7 @@ class RandomPoint{
 
                  int y = (int) (Math.random() * 101 * 2 - 100);
 
-                 System.out.print("Random Renctangle Co-ordinate : + (" + x + ", " + y + ")");
+                 System.out.print("Random Renctangle Co-ordinate : (" + x + ", " + y + ")");
 		   	
      		 }
 
