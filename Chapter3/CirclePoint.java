@@ -6,7 +6,7 @@ class CirclePoint{
 
            Scanner input = new Scanner(System.in);
 
-           double a = 25/4;    	
+               	
     	
 	       System.out.print("Enter a first point coordinates :");
 	       double x = input.nextDouble();
@@ -20,7 +20,7 @@ class CirclePoint{
    
              }
  
-            System.out.print("Point " + x + ", " + y + " is the circle");
+            System.out.print("Point " + x + ", " + y + " is in the circle");
     
 
 
