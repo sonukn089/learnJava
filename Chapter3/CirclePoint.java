@@ -6,8 +6,6 @@ class CirclePoint{
 
            Scanner input = new Scanner(System.in);
 
-               	
-    	
 	       System.out.print("Enter a first point coordinates :");
 	       double x = input.nextDouble();
 
