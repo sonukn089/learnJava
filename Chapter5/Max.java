@@ -8,13 +8,13 @@ class Max{
 
 			int number;
 			int max;
-            System.out.print("Please input the number : ");
+            
 			number = input.nextInt();
 
 			max = number;
 
 			while (number != 0){
-
+                System.out.print("Please input the number : ");
 				number = input.nextInt();
 
 				if (number > max) {
