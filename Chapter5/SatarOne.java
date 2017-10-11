@@ -12,7 +12,9 @@ class SatarOne{
            	k++;
            }
            else{
+
            	k--;
+           	
 			 }
 
 			 x =1;
