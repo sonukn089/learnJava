@@ -10,13 +10,13 @@ class LeapYears{
 
 		if (y % 4 == 0) {
 
-			System.out.print(y + " is Leap-Year ");
+			System.out.print(y + "  is Leap-Year");
 			
 		}
 
 
 		else
-			System.out.print(y + " is not Leap-Year ");
+			System.out.print(y + "  is not Leap-Year");
 
   }
 
