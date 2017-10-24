@@ -4,8 +4,6 @@ class Character{
 	
 	public static void main(String[] args) {
 
-		Scanner input = new Scanner(System.in);
-
 		char ch;
         Scanner scan = new Scanner(System.in);
 		
