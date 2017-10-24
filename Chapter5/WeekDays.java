@@ -6,7 +6,7 @@ class WeekDays{
 
 		Scanner input = new Scanner(System.in);
 		
-        System.out.print("Please input any Character : ");
+        System.out.print("Please input the Number : ");
         int n = input.nextInt();
 		
         if (n == 1) {
