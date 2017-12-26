@@ -10,7 +10,7 @@ class Sum {
 
             int a = input.nextInt();
 
-
+             
              int sum = a % 10;
 
                    a = a/10;
@@ -20,6 +20,11 @@ class Sum {
                    a = a /10;
 
                  sum = sum + (a % 10);
+
+                   a = a/10;
+
+                 sum = sum + (a % 10);
+              
 
 
              System.out.println(sum);
