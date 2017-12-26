@@ -7,7 +7,6 @@ public class Check{
 		while (i <= 6){
 
 			method1(i, 2);
-			
 			i++;
 		}
 	}
