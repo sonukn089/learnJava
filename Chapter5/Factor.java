@@ -20,6 +20,7 @@ class Factor{
 				
 			}
 			else
+				
 				++fact;
 		}
 	}
