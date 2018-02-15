@@ -4,6 +4,6 @@ class Array{
 		
 		char city[] = {'D','e','l','h','i'};
 
-		System.out.print(city);
+		System.out.println(city);
 	}
 }
