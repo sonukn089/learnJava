@@ -20,6 +20,7 @@ class Test{
 			result = num1;
 		}
 		else {
+			
 			result = num2;
 		}
 		
