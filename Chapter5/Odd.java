@@ -13,6 +13,7 @@ class Odd{
 			System.out.print("Even Number");
 		}
 		else
+			
 			System.out.print("Odd Number");
 	}
 }
