@@ -1,6 +1,7 @@
 class Return{
 	
 	public static void main(String[] args) {
+		
 	
 		System.out.println("The grade is " + getGrade(78.5));
 
