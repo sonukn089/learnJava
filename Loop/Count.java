@@ -11,6 +11,7 @@ class Count{
 			count++;
 
 		}
+		
 		System.out.println("--------------------");
 	}
 }
